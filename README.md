@@ -1,6 +1,7 @@
-# 🧠 AI Prompt Generator
+# 🧠 AI Prompt Generator — Updated
 
-> **Craft perfect prompts for ANY AI — ChatGPT, Gemini, Claude, Perplexity and more.**
+> **Craft perfect prompts · Click your AI · Done. No copy-pasting.**
+> Works with ChatGPT, Gemini, Claude, Perplexity & Copilot.
 > Built entirely using Claude. No code. Just a conversation.
 
 ![Demo](./prompt_generator_demo.gif)
@@ -64,6 +65,22 @@ This tool uses the **Anthropic Claude API** to generate prompts.
 3. Add it to your `.env` file as shown above
 
 > **Note:** When running inside Claude.ai, no API key is needed — it uses Claude's built-in authentication automatically.
+
+---
+
+## 🤖 One Click to Any AI
+
+After generating your prompt, click any AI to open it instantly:
+
+| AI | Method |
+|---|---|
+| 🤖 ChatGPT | Opens with prompt pre-loaded → just hit Send |
+| 🔍 Perplexity | Opens with prompt pre-loaded → just hit Send |
+| 🧡 Claude | Opens with prompt pre-loaded → just hit Send |
+| ✨ Gemini | Copies prompt + opens Gemini → paste & Send |
+| 🪟 Copilot | Copies prompt + opens Copilot → paste & Send |
+
+> Gemini and Copilot don't support URL pre-filling — the tool auto-copies your prompt to clipboard when you click.
 
 ---
 
